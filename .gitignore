@@ -1,0 +1,12 @@
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+Packages/*/.build/
+.swiftpm/
+.DS_Store
+.claude/worktrees/
+# Generated from project.yml by scripts/build.sh
+TipShare.xcodeproj/
+# Signing team (personal)
+Config/Signing.xcconfig

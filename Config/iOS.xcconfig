@@ -1,0 +1,3 @@
+// Tip Share (iOS). Device builds sign automatically with the team from Config/Signing.xcconfig (gitignored).
+#include? "Signing.xcconfig"
+CODE_SIGN_STYLE = Automatic
